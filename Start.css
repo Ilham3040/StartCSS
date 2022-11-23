@@ -16,6 +16,7 @@ time, mark, audio, video {
 	border: 0;
 	font-size: inherit;
   	font-weight: inherit;
+        border-box: box-sizing;
 }
 
 ol,ul {
